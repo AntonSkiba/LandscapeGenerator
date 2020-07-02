@@ -1,0 +1,23 @@
+{
+  "name": "landscapegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonSkiba/LandscapeGenerator.git"
+  },
+  "author": "Skiba A.S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonSkiba/LandscapeGenerator/issues"
+  },
+  "homepage": "https://github.com/AntonSkiba/LandscapeGenerator#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
